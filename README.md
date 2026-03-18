@@ -99,7 +99,6 @@ This project was built to:
 * Strengthen Python skills
 * Practice API integration
 * Analyze coding interview progress
-* Build a useful developer tool
 
 ---
 
